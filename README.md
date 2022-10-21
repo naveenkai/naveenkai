@@ -1,7 +1,7 @@
 ![logo](https://github.com/thenameiswin/thenameiswin/blob/main/Blue%20Modern%20Technology%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Naveen K</h1>
 <h3 align="center">AI/ML for emphasizing the problems that need to be solved.</h3>
-<img align="right" alt="ai" width="200" src="http://rampages.us/gdtheory/wp-content/uploads/sites/4828/2019/10/ai-sun-type.gif">
+<img align="right" alt="ai" width="300" src="http://rampages.us/gdtheory/wp-content/uploads/sites/4828/2019/10/ai-sun-type.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thenameiswin&label=Profile%20views&color=0e75b6&style=flat" alt="thenameiswin" /> </p>
 
