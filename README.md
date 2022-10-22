@@ -3,7 +3,9 @@
 <h3 align="center">AI/ML for emphasizing the problems that need to be solved.</h3>
 <img align="right" alt="ai" width="300" src="http://rampages.us/gdtheory/wp-content/uploads/sites/4828/2019/10/ai-sun-type.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thenameiswin&label=Profile%20views&color=0e75b6&style=flat" alt="thenameiswin" /> </p>
+<br>
+
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -22,10 +24,16 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thenameiswin&" alt="thenameiswin" /></p>
 
 
-<br>
 
-<p align="center"> 
-Number of visitors
+<p> 
+ <br>
+  <br>
+   <br>
+   <br>
+   <br>
+   Number of Visitors
+  
 ![VisitorCount](https://profile-counter.glitch.me/{thenameiswin}/count.svg)
-</div align="center">
+</div>
+
 </p>
