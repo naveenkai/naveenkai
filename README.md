@@ -24,5 +24,8 @@
 
 <br>
 
+<p align="center"> 
+Number of visitors
 ![VisitorCount](https://profile-counter.glitch.me/{thenameiswin}/count.svg)
 </div align="center">
+</p>
