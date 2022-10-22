@@ -1,5 +1,5 @@
 ![logo](https://github.com/thenameiswin/thenameiswin/blob/main/Blue%20Modern%20Technology%20LinkedIn%20Banner%20(1).png)
-<h1 align="center">Hi 👋, I'm Naveen K</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Naveen K</h1>
 <h3 align="center">AI/ML for emphasizing the problems that need to be solved.</h3>
 <img align="right" alt="ai" width="300" src="http://rampages.us/gdtheory/wp-content/uploads/sites/4828/2019/10/ai-sun-type.gif">
 
