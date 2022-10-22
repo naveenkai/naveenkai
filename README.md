@@ -23,6 +23,6 @@
 
 
 <br>
-<div align="center">
+
 ![VisitorCount](https://profile-counter.glitch.me/{thenameiswin}/count.svg)
-</div>
+</div align="center">
