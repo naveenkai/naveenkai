@@ -21,3 +21,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thenameiswin&" alt="thenameiswin" /></p>
 
+![VisitorCount](https://profile-counter.glitch.me/{thenameiswin}/count.svg)
+</div>
