@@ -1,6 +1,9 @@
 ![logo](https://github.com/thenameiswin/thenameiswin/blob/main/Blue%20Modern%20Technology%20LinkedIn%20Banner%20(1).png)
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Naveen K</h1>
-<h3 align="center">AI/ML for emphasizing the problems that need to be solved.</h3>
+<p align="center">
+ <a href="https://github.com/pik1989"><img src="https://readme-typing-svg.herokuapp.com?lines=Self+taught+Data+Scientist;AI+and+ML;for+emphasizing+the+Problems;that+need+to+be+solved;&center=true&width=450&height=100"></a>
+</p>
+
 <img align="right" alt="ai" width="300" src="http://rampages.us/gdtheory/wp-content/uploads/sites/4828/2019/10/ai-sun-type.gif">
 
 <br>
