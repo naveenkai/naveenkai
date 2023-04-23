@@ -22,7 +22,9 @@
 
 
 <h3 align="left">Badges:</h3>
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="01ce02b6-c7ed-4e6e-b2f1-b9594daafdb0" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+
+
 
 
 <h3> Keen to Learn<br> -> Computer Vision 👁️ <br> -> Deep Learning 🚀 <br> -> NLP ⸮ </h3>
