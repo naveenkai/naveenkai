@@ -23,6 +23,7 @@
 <h3 align="left">Badges:</h3>
 
 <a href="https://www.credly.com/badges/4c447fbd-30d1-4c4f-b8db-28a125bb1095/public_url" target="blank"><img align="center" src="https://github.com/thenameiswin/thenameiswin/blob/main/Sql%20badge%20(2).png" alt="naveenkwin1" height="120" width="120" /></a>
+<a href="https://www.credly.com/badges/01ce02b6-c7ed-4e6e-b2f1-b9594daafdb0/public_url" target="blank"><img align="center" src="https://github.com/thenameiswin/thenameiswin/blob/main/aws_image-removebg-preview.png" alt="naveenkwin1" height="120" width="120" /></a>
 
 
 <h3> Keen to Learn<br> -> Computer Vision 👁️ <br> -> Deep Learning 🚀 <br> -> NLP ⸮ </h3>
