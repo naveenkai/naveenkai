@@ -25,11 +25,11 @@
 <a href="https://www.credly.com/badges/01ce02b6-c7ed-4e6e-b2f1-b9594daafdb0/public_url" target="blank"><img align="center" src="https://github.com/thenameiswin/thenameiswin/blob/main/aws_image-removebg-preview.png" alt="naveenkwin1" height="120" width="120" /></a>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thenameiswin&show_icons=true&locale=en&layout=compact" alt="thenameiswin" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naveenkai&show_icons=true&locale=en&layout=compact" alt="naveenkai" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thenameiswin&show_icons=true&locale=en" alt="thenameiswin" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naveenkai&show_icons=true&locale=en" alt="thenameiswin" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thenameiswin&" alt="thenameiswin" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naveenkai&" alt="naveenkai" /></p>
 
 
 
