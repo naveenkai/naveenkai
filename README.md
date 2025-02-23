@@ -26,11 +26,11 @@ AI/ML Engineer @ Indus Vision | Former Project Assistant @ IISc | Building Compu
 - Implemented point-of-contact detection using YOLO
 - Developed posture correction and personalized training recommendations
 
-## 🎙 Content Creation
+## 🎙 PODCAST - Future of AI
 Currently hosting "Future of AI with Founders" podcast, featuring interviews with:
 - Chris Prucha (Co-founder, Notion)
 - Robert Scoble (World's #1 AI Influencer)
-- Zengyi Qin (Co-founder, MyShell AI)
+- Zengyi Qin (Co-founder, MyShell AI, Research Lead at MIT)
 - And many other tech leaders
 
 ## 🏆 Achievements
