@@ -2,6 +2,8 @@
 
 AI/ML Engineer @ Indus Vision | Former Project Assistant @ IISc | Building Computer Vision Solutions
 
+[Visit my portfolio](https://naveenkai.notion.site/Portfolio-e51e15bbbd384be5ac019b6ebd27775a)
+
 ## Tech Stack
 - **AI/ML**: Computer Vision | Deep Learning | Machine Learning | Generative AI
 - **Vision Expertise**: Pose Estimation | Object Detection | Segmentation | Camera Calibration | Stereo Vision
@@ -45,3 +47,4 @@ Currently hosting "Future of AI with Founders" podcast, featuring interviews wit
 
 ---
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=naveenkai&show_icons=true&theme=radical)
+
