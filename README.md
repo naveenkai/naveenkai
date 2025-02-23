@@ -1,47 +1,47 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Naveen K</h1>
-<p align="center">
- <a href="https://github.com/pik1989"><img src="https://readme-typing-svg.herokuapp.com?lines=Self+taught+AI+Engineer;AI+and+ML;for+emphasizing+the+Problems;that+need+to+be+solved;&center=true&width=450&height=100"></a>
-</p>
+# 👋 Hi, I'm Naveen K
 
-<img align="right" alt="ai" width="300" src="http://rampages.us/gdtheory/wp-content/uploads/sites/4828/2019/10/ai-sun-type.gif">
+AI/ML Engineer @ Indus Vision | Former Project Assistant @ IISc | Building Computer Vision Solutions
 
-<br>
+## 🛠 Tech Stack
+- **AI/ML**: Computer Vision | Deep Learning | Machine Learning | Generative AI
+- **Vision Expertise**: Pose Estimation | Object Detection | Segmentation | Camera Calibration | Stereo Vision
+- **Frameworks**: PyTorch | TensorFlow
+- **Operations**: MLOps | Data Preprocessing | Bias Handling
 
-<br>
+## 🚀 Featured Projects
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/naveenkwin1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="naveenkwin1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/naveen-k-70a65722a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naveen k" height="30" width="40" /></a>
-<a href="https://kaggle.com/naveenkwin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="naveen k" height="30" width="40" /></a>
-</p>
+### POSTURA: Low-Cost Gait Analysis System
+- Built an innovative 2D camera-based gait analysis system reducing costs by 40-50%
+- Implemented perspective correction and multi-camera synchronization
+- Enhanced keypoint detection accuracy by 30% using ensemble approaches
+- Collaborating with Ramaiah Memorial Hospital for medical applications
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+### HUL Production Quality Control
+- Developed vision solutions achieving 40-50ms detection speed
+- Improved quality control efficiency by 75-80%
+- Specialized in defect classification for manufacturing lines
 
-<h3 align="left">Badges:</h3>
+### Tennis Shot Analysis System (IISc Project)
+- Created tennis shot classifier using MOVENET and RNN
+- Implemented point-of-contact detection using YOLO
+- Developed posture correction and personalized training recommendations
 
-<a href="https://www.credly.com/badges/4c447fbd-30d1-4c4f-b8db-28a125bb1095/public_url" target="blank"><img align="center" src="https://github.com/thenameiswin/thenameiswin/blob/main/Sql%20badge%20(2).png" alt="naveenkwin1" height="120" width="120" /></a>
-<a href="https://www.credly.com/badges/01ce02b6-c7ed-4e6e-b2f1-b9594daafdb0/public_url" target="blank"><img align="center" src="https://github.com/thenameiswin/thenameiswin/blob/main/aws_image-removebg-preview.png" alt="naveenkwin1" height="120" width="120" /></a>
+## 🎙 Content Creation
+Currently hosting "Future of AI with Founders" podcast, featuring interviews with:
+- Chris Prucha (Co-founder, Notion)
+- Robert Scoble (World's #1 AI Influencer)
+- Zengyi Qin (Co-founder, MyShell AI)
+- And many other tech leaders
 
+## 🏆 Achievements
+- Top 10 team in {Minus One} ULTIMATE AI HACKATHON by MINUS ZERO
+- Finalist at Venture Tank – NMIT
+- 1st place among 198 papers at International Conference on Frontiers in Yoga Research
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naveenkai&show_icons=true&locale=en&layout=compact" alt="naveenkai" /></p>
+## 📫 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naveenkai/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/naveenkai)
+[![Links](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/naveenk.ai)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naveenkai&show_icons=true&locale=en" alt="thenameiswin" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naveenkai&" alt="naveenkai" /></p>
-
-
-
-<p> 
- <br>
-  <br>
-   <br>
-   <br>
-   <br>
-   Number of Visitors
-  
-![VisitorCount](https://profile-counter.glitch.me/{thenameiswin}/count.svg)
-</div>
-
-</p>
+---
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=naveenkai&show_icons=true&theme=radical)
