@@ -1,6 +1,6 @@
 # Hi, I'm Naveen K
 
-AI/ML Engineer @ Indus Vision | Former Project Assistant @ IISc | Building Computer Vision Solutions
+AI/ML Engineer @ Indus Vision | Former Project Assistant @ IISc | Building Generative AI and Computer Vision Solutions
 
 [Visit my portfolio](https://naveenkai.notion.site/Portfolio-e51e15bbbd384be5ac019b6ebd27775a)
 
@@ -18,7 +18,7 @@ AI/ML Engineer @ Indus Vision | Former Project Assistant @ IISc | Building Compu
 - Enhanced keypoint detection accuracy by 30% using ensemble approaches
 - Collaborating with Ramaiah Memorial Hospital for medical applications
 
-### HUL Production Quality Control
+### Production Quality Control
 - Developed vision solutions achieving 40-50ms detection speed
 - Improved quality control efficiency by 75-80%
 - Specialized in defect classification for manufacturing lines
@@ -31,7 +31,7 @@ AI/ML Engineer @ Indus Vision | Former Project Assistant @ IISc | Building Compu
 ## PODCAST - Future of AI
 Currently hosting "Future of AI with Founders" podcast, featuring interviews with:
 - Chris Prucha (Co-founder, Notion)
-- Robert Scoble (World's #1 AI Influencer)
+- Robert Scoble (World's top AI Influencer)
 - Zengyi Qin (Co-founder, MyShell AI, Research Lead at MIT)
 - And many other tech leaders
 
