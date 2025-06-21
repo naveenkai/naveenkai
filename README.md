@@ -2,7 +2,7 @@
 
 AI/ML Engineer @ Indus Vision | Former Project Assistant @ IISc | Building Generative AI and Computer Vision Solutions
 
-[Visit my portfolio](https://naveenkai.notion.site/Portfolio-e51e15bbbd384be5ac019b6ebd27775a)
+[Visit my portfolio](https://naveenkai.notion.site/portfolio)
 
 ## Tech Stack
 - **AI/ML**: Computer Vision | Deep Learning | Machine Learning | Generative AI
