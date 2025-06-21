@@ -6,22 +6,21 @@ AI/ML Engineer @ Indus Vision | Former Project Assistant @ IISc | Building Gener
 
 ## Tech Stack
 - **AI/ML**: Computer Vision | Deep Learning | Machine Learning | Generative AI
-- **Vision Expertise**: Pose Estimation | Object Detection | Segmentation | Camera Calibration | Stereo Vision
 - **Frameworks**: PyTorch | TensorFlow
 - **Operations**: MLOps | Data Preprocessing | Bias Handling
 
 ## Featured Projects
+
+### Interview Agent
+- An AI agent that takes end to end interview
+- Including taking resume, asking question based on resume, asking follow ups and even taking coding round
+- It has a module that deals with code activity called CAD - Code Activity Detector along with Voice Activity Detector(VAD)
 
 ### POSTURA: Low-Cost Gait Analysis System
 - Built an innovative 2D camera-based gait analysis system reducing costs by 40-50%
 - Implemented perspective correction and multi-camera synchronization
 - Enhanced keypoint detection accuracy by 30% using ensemble approaches
 - Collaborating with Ramaiah Memorial Hospital for medical applications
-
-### Production Quality Control
-- Developed vision solutions achieving 40-50ms detection speed
-- Improved quality control efficiency by 75-80%
-- Specialized in defect classification for manufacturing lines
 
 ### Tennis Shot Analysis System (IISc Project)
 - Created tennis shot classifier using MOVENET and RNN
