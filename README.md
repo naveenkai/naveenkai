@@ -41,8 +41,6 @@ Currently hosting "Future of AI with Founders" podcast, featuring interviews wit
 
 ## Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naveenkai/)
-[![Links](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/naveenk.ai)
 
 ---
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=naveenkai&show_icons=true&theme=radical)
 
