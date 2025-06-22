@@ -39,8 +39,3 @@ Currently hosting "Future of AI with Founders" podcast, featuring interviews wit
 - Finalist at Venture Tank – NMIT
 - 1st place among 198 papers at International Conference on Frontiers in Yoga Research
 
-## Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naveenkai/)
-
----
-
