@@ -6,8 +6,8 @@ AI/ML Engineer | Former Project Assistant @ IISc | Building Generative AI and Co
 
 ## Tech Stack
 - **AI/ML**: Computer Vision | Deep Learning | Machine Learning | Generative AI
-- **Frameworks**: PyTorch | TensorFlow
-- **Operations**: MLOps | Data Preprocessing | Bias Handling
+- **Frameworks**: PyTorch | TensorFlow | Langchain | Livekit
+- **Operations**: MLOps | Data Preprocessing | Bias Handling | Fine-tuning
 
 ## Featured Projects
 
