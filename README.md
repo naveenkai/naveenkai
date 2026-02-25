@@ -2,7 +2,7 @@
 
 AI/ML Engineer | Former Project Assistant @ IISc | Building Generative AI and Computer Vision Solutions
 
-[Visit my portfolio](https://naveenkai.notion.site/portfolio)
+[Visit my portfolio](https://naveenkai.com/)
 
 ## Featured Projects
 
