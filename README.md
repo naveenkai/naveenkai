@@ -1,7 +1,7 @@
 # Hi, I'm Naveen K
 
 AI/ML Engineer | Former Project Assistant @ IISc | Building Generative AI and Computer Vision Solutions
-Working with agents to build agents!
+| Working with agents to build agents!
 
 [Visit my portfolio](https://naveenkai.com/)
 
